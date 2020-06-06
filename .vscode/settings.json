@@ -2,7 +2,7 @@
     "files.defaultLanguage": "shellscript",
     "files.associations": {
         "**/*": "shellscript",
-        "*.json": "json",
-        "*.md": "markdown"
+        "**/*.json": "json",
+        "**/*.md": "markdown"
     }
 }
