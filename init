@@ -1,0 +1,7 @@
+# shellcheck shell=bash
+
+@setup(){
+    local sft=$1
+    shift 1
+    @src "setup/$sft" "$@"
+}
